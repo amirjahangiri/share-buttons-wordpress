@@ -1,0 +1,48 @@
+.social {
+    text-align: center;
+}
+.social a {
+    font-size: 0;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    float: none;
+    border-radius: 50%;
+}
+.twitter {
+    background: url(social-images.png) no-repeat;
+    background-position: 0px -159px;
+}
+/*Facebook*/
+.facebook {
+    background: url(social-images.png) no-repeat;
+    background-position: 0px -108px;
+}
+/*Google Plus*/
+.google-plus {
+    background: url(social-images.png) no-repeat;
+    background-position: 0px -307px;
+}
+/*LinkedIn*/
+.linkedin{
+    background: url(social-images.png) no-repeat;
+    background-position: 0px -10px;
+}
+/*Pinterest*/
+.pinterest{
+    background: url(social-images.png) no-repeat;
+    background-position:0px -258px;
+}
+/*Telegram*/
+.telegram{
+    background: url(social-images.png) no-repeat;
+    background-position:0px -358px;
+}
+/* Whatsapp*/
+.whatsapp{
+    background: url(social-images.png) no-repeat;
+    background-position:0px -59px;
+}
+.social a:hover {
+    opacity: 0.7;
+}
